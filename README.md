@@ -20,3 +20,5 @@ Hey there! I’m **Adityaa Mehra**, an **Electronics Engineering** student at **
 I try to code **every single day** 💻, always leveling up my skills and tackling new problems. I’m constantly diving into new technologies and love discovering innovative solutions. Always up for a challenge and ready to learn something new! 🚀
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username={Adityaa_Mehra}&theme={dark}" alt="LeetCode Badges"/>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={kevzpeter}&animated=true" alt="LeetCode Badges"/>
