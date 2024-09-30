@@ -19,4 +19,4 @@ Hey there! I’m **Adityaa Mehra**, an **Electronics Engineering** student at **
 
 I try to code **every single day** 💻, always leveling up my skills and tackling new problems. I’m constantly diving into new technologies and love discovering innovative solutions. Always up for a challenge and ready to learn something new! 🚀
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Adityaa_Mehra?ext=heatmap,theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Adityaa_Mehra?theme=dark)
