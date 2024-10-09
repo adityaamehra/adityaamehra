@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityaamehra/adityaamehra/main/release.svg">
+  <img src="https://raw.githubusercontent.com/adityaamehra/adityaamehra/main/size.svg">
+  <img src="https://raw.githubusercontent.com/adityaamehra/adityaamehra/main/vulnerabilities.svg">
+  <img src="https://raw.githubusercontent.com/adityaamehra/adityaamehra/main/quality.svg">
+</p>
+
 ## Hi there 👋
 
 <!--
