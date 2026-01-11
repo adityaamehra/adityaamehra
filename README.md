@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there! I’m **Adityaa Mehra**, an **Electronics Engineering** student at **IIT (BHU), Varanasi**. I’m super passionate about **Artificial Intelligence** 🤖, **Machine Learning** 🧠, and **Semiconductors** 💡. These fields excite me, and I’m always exploring how they’ll shape the future of tech!
-
-I try to code **every single day** 💻, always leveling up my skills and tackling new problems. I’m constantly diving into new technologies and love discovering innovative solutions. Always up for a challenge and ready to learn something new! 🚀
+Hey there! I’m **Adityaa Mehra**, an **Electronics Engineering** student at **IIT (BHU), Varanasi**. I’m super passionate about **Artificial Intelligence**  , accelerators micro-acrchitechture and neuromorphics. These fields excite me, and I’m always exploring how they’ll shape the future of tech!
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Adityaa_Mehra?theme=dark&ext=contest)       ![Leetcode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Adityaa_Mehra&theme=dark&border=border&animated=true)       [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Adityaa_Mehra)](https://codeforces.com/profile/Adityaa_Mehra)
 -->
