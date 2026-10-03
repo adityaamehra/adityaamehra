@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there! I’m **Adityaa Mehra**, an **Electronics Engineering** student at **IIT (BHU), Varanasi**. I’m super passionate about **Artificial Intelligence**  , accelerators micro-acrchitechture and neuromorphics. These fields excite me, and I’m always exploring how they’ll shape the future of tech!
+Hey there! I’m **Adityaa Mehra**, an **Electronics Engineering** student at **IIT (BHU), Varanasi**. I’m super passionate about **Artificial Intelligence**  and SW/HW Co-Design. These fields excite me, and I’m always exploring how they’ll shape the future of tech!
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Adityaa_Mehra?theme=dark&ext=contest)       ![Leetcode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Adityaa_Mehra&theme=dark&border=border&animated=true)       [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Adityaa_Mehra)](https://codeforces.com/profile/Adityaa_Mehra)
 -->
